@@ -1,5 +1,3 @@
-## Hi I'm Yutaro 👋
-
 情報システムを専攻し、機械学習・AIについて研究しています。
 現在は、Graph Neural Network（GNN）を用いた船舶の性能指数推定に取り組んでいます。
 
